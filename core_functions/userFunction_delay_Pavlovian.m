@@ -1,5 +1,5 @@
 function [logger , logger_valsROIs] =...
-    userFunction_BMIv11_withZ(source, event, varargin)
+    userFunction_delay_Pavlovian(source, event, varargin)
 %% Variable stuff
 tic
 global logger loggerNames...
